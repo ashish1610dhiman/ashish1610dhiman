@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ashish1610dhiman
+👋 Hi, I’m @ashish1610dhiman
 
 I'm a Data Scientist striving for the ethical application of Data Science techniques derived from Machine Learning and Optimisation towards converting raw numbers into actionable insights. Proficient in Python, SQL, Pyspark, R, Hive, Hadoop, and Excel along with AWS EMR and visualisation tools like Tableau.
 
