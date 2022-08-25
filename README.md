@@ -2,7 +2,7 @@
 
 I'm a Data Scientist striving for the ethical application of Data Science techniques derived from Machine Learning and Optimisation towards converting raw numbers into actionable insights. Proficient in Python, SQL, Pyspark, R, Hive, Hadoop, and Excel along with AWS EMR and visualisation tools like Tableau.
 
-Currently pursuing MS Analytics at Georgia Tech. Three years of relevant Data Science work experience at Credit and Fraud Risk, American Express. Graduated with a Bachelor of Technology from IIT Kharagpur, (Major= Aerospace Eng., Micro= Optimisation) in 2019.
+Currently pursuing MS Computational Data Science at Georgia Tech. Three years of relevant Data Science work experience at Credit and Fraud Risk, American Express. Graduated with a Bachelor of Technology from IIT Kharagpur, (Major= Aerospace Eng., Micro= Optimisation) in 2019.
 
 Awarded Senior VP Award at American Express.
 Awarded Gymkhana award at IIT Kharagpur.
