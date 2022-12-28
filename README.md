@@ -1,12 +1,13 @@
 👋 Hi, I’m @ashish1610dhiman
 
-I'm a Data Scientist striving for the ethical application of Data Science techniques derived from Machine Learning and Optimisation towards converting raw numbers into actionable insights. Proficient in Python, SQL, Pyspark, R, Hive, Hadoop, and Excel along with AWS EMR and visualisation tools like Tableau.
+I am a Data Scientist striving for the ethical application of Data Science techniques derived from Machine Learning and Optimisation towards converting raw numbers into actionable insights. Proficient in Python, SQL, Pyspark, R, Hive, Hadoop, and AWS EMR, along with visualisation tools like Tableau.
 
-Currently pursuing MS Computational Data Science at Georgia Tech. Three years of relevant Data Science work experience at Credit and Fraud Risk, American Express. Graduated with a Bachelor of Technology from IIT Kharagpur, (Major= Aerospace Eng., Micro= Optimisation) in 2019.
+Presently I am pursuing MS in Computational Data Science at Georgia Tech. Before joining Georgia Tech, I worked as a Data Scientist at American Express (Credit and Fraud Risk). I graduated with a Bachelor of Technology from IIT Kharagpur in 2019, majoring in Aerospace Engineering with a micro specialisation in Optimisation Theory.
 
-Awarded Senior VP Award at American Express.
-Awarded Gymkhana award at IIT Kharagpur.
-Class Rank 2 in Aerospace (2019), IIT Kharagpur.
+
+* Awarded Senior VP Award at American Express.
+* Awarded Gymkhana award at IIT Kharagpur.
+* Class Rank 2 in Aerospace (2019), IIT Kharagpur.
 
 PS: Also really fascinated with remote islands like St. Helena and Madeira :)
 
